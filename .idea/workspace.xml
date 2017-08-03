@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="catch_the_drop:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac0a5058-70ea-4533-8bf3-5f03a4cf8ae6" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GameWindow.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/catch_the_drop/GameWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MANIFEST.MF" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CatchTheDrop.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CatchTheDrop.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MANIFEST.MF" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/production/catch_the_drop/META-INF/MANIFEST.MF">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project-template.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/project-template.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uiDesigner.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3135">
+              <caret line="209" column="20" lean-forward="false" selection-start-line="209" selection-start-column="20" selection-end-line="209" selection-end-column="20" />
+              <folding>
+                <marker date="1501785852000" expanded="true" signature="37713:38017" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="37713:38030" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="37713:38916" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="37714:37999" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="37901:37982" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="38095:38432" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="38157:38419" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="38201:38401" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="38564:38901" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="38626:38888" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="38670:38870" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="38951:41203" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="38964:41188" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="39018:39408" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="39037:39393" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="39156:39373" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="39196:39339" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="39217:39317" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="39458:39785" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="39477:39770" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="39572:39750" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="39612:39716" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="39633:39694" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="39836:40101" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="39855:40086" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="39888:40066" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="39928:40032" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="39949:40010" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="40144:40450" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="40163:40435" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="40237:40415" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="40277:40381" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="40298:40359" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="40501:40857" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="40520:40842" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="40605:40822" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="40645:40788" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="40666:40766" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="40909:41174" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="40928:41159" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="40961:41139" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="41001:41105" ph="..." />
+                <marker date="1501785852000" expanded="true" signature="41022:41083" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>guess_the_number</find>
+      <find>catch_the_drop.Main</find>
+      <find>catch_the_drop</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/ru/geekbrains/catch_the_drop/GameWindow.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="681" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CatchTheDrop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CatchTheDrop" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="guess_the_number&#9;null&#9;null" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.catch_the_drop.GameWindow" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CatchTheDrop" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="catch_the_drop" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac0a5058-70ea-4533-8bf3-5f03a4cf8ae6" name="Default" comment="" />
+      <created>1500807668138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500807668138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="681" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32838285" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2440273" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28432956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="123" width="1080" height="501" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/description.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/project-template.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+          <caret line="238" column="67" lean-forward="false" selection-start-line="238" selection-start-column="67" selection-end-line="238" selection-end-column="67" />
+          <folding>
+            <marker date="1501785852000" expanded="true" signature="37713:38017" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37713:38030" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37713:38916" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37714:37999" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37901:37982" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38095:38432" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38157:38419" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38201:38401" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38564:38901" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38626:38888" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38670:38870" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38951:41203" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38964:41188" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39018:39408" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39037:39393" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39156:39373" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39196:39339" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39217:39317" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39458:39785" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39477:39770" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39572:39750" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39612:39716" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39633:39694" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39836:40101" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39855:40086" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39888:40066" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39928:40032" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39949:40010" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40144:40450" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40163:40435" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40237:40415" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40277:40381" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40298:40359" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40501:40857" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40520:40842" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40605:40822" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40645:40788" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40666:40766" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40909:41174" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40928:41159" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40961:41139" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="41001:41105" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="41022:41083" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CatchTheDrop.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/catch_the_drop/GameWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/catch_the_drop/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/description.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/project-template.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+          <caret line="238" column="67" lean-forward="false" selection-start-line="238" selection-start-column="67" selection-end-line="238" selection-end-column="67" />
+          <folding>
+            <marker date="1501785852000" expanded="true" signature="37713:38017" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37713:38030" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37713:38916" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37714:37999" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37901:37982" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38095:38432" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38157:38419" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38201:38401" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38564:38901" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38626:38888" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38670:38870" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38951:41203" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38964:41188" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39018:39408" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39037:39393" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39156:39373" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39196:39339" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39217:39317" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39458:39785" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39477:39770" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39572:39750" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39612:39716" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39633:39694" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39836:40101" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39855:40086" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39888:40066" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39928:40032" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39949:40010" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40144:40450" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40163:40435" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40237:40415" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40277:40381" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40298:40359" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40501:40857" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40520:40842" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40605:40822" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40645:40788" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40666:40766" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40909:41174" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40928:41159" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40961:41139" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="41001:41105" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="41022:41083" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CatchTheDrop.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/catch_the_drop/GameWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/description.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/catch_the_drop/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/project-template.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3450">
+          <caret line="230" column="67" lean-forward="false" selection-start-line="230" selection-start-column="67" selection-end-line="230" selection-end-column="67" />
+          <folding>
+            <marker date="1501785852000" expanded="true" signature="37713:38017" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37713:38030" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37713:38916" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37714:37999" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37901:37982" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38095:38432" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38157:38419" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38201:38401" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38564:38901" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38626:38888" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38670:38870" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38951:41203" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38964:41188" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39018:39408" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39037:39393" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39156:39373" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39196:39339" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39217:39317" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39458:39785" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39477:39770" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39572:39750" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39612:39716" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39633:39694" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39836:40101" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39855:40086" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39888:40066" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39928:40032" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39949:40010" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40144:40450" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40163:40435" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40237:40415" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40277:40381" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40298:40359" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40501:40857" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40520:40842" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40605:40822" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40645:40788" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40666:40766" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40909:41174" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40928:41159" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40961:41139" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="41001:41105" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="41022:41083" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/catch_the_drop/GameWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/description.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/project-template.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2940">
+          <caret line="196" column="67" lean-forward="true" selection-start-line="196" selection-start-column="67" selection-end-line="196" selection-end-column="67" />
+          <folding>
+            <marker date="1501785852000" expanded="true" signature="37713:38017" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37713:38030" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37713:38916" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37714:37999" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37901:37982" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38095:38432" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38157:38419" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38201:38401" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38564:38901" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38626:38888" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38670:38870" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38951:41203" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38964:41188" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39018:39408" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39037:39393" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39156:39373" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39196:39339" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39217:39317" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39458:39785" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39477:39770" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39572:39750" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39612:39716" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39633:39694" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39836:40101" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39855:40086" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39888:40066" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39928:40032" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39949:40010" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40144:40450" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40163:40435" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40237:40415" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40277:40381" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40298:40359" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40501:40857" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40520:40842" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40605:40822" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40645:40788" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40666:40766" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40909:41174" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40928:41159" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40961:41139" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="41001:41105" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="41022:41083" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/description.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/project-template.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/catch_the_drop/GameWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="176" column="83" lean-forward="false" selection-start-line="176" selection-start-column="83" selection-end-line="176" selection-end-column="83" />
+          <folding>
+            <marker date="1501785852000" expanded="true" signature="37713:38017" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37713:38030" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37713:38916" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37714:37999" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37901:37982" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38095:38432" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38157:38419" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38201:38401" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38564:38901" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38626:38888" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38670:38870" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38951:41203" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38964:41188" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39018:39408" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39037:39393" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39156:39373" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39196:39339" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39217:39317" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39458:39785" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39477:39770" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39572:39750" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39612:39716" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39633:39694" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39836:40101" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39855:40086" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39888:40066" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39928:40032" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39949:40010" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40144:40450" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40163:40435" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40237:40415" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40277:40381" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40298:40359" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40501:40857" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40520:40842" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40605:40822" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40645:40788" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40666:40766" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40909:41174" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40928:41159" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40961:41139" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="41001:41105" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="41022:41083" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/description.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/project-template.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3135">
+          <caret line="209" column="20" lean-forward="false" selection-start-line="209" selection-start-column="20" selection-end-line="209" selection-end-column="20" />
+          <folding>
+            <marker date="1501785852000" expanded="true" signature="37713:38017" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37713:38030" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37713:38916" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37714:37999" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="37901:37982" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38095:38432" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38157:38419" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38201:38401" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38564:38901" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38626:38888" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38670:38870" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38951:41203" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="38964:41188" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39018:39408" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39037:39393" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39156:39373" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39196:39339" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39217:39317" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39458:39785" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39477:39770" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39572:39750" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39612:39716" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39633:39694" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39836:40101" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39855:40086" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39888:40066" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39928:40032" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="39949:40010" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40144:40450" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40163:40435" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40237:40415" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40277:40381" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40298:40359" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40501:40857" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40520:40842" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40605:40822" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40645:40788" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40666:40766" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40909:41174" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40928:41159" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="40961:41139" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="41001:41105" ph="..." />
+            <marker date="1501785852000" expanded="true" signature="41022:41083" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/catch_the_drop/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/catch_the_drop/GameWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CatchTheDrop/CatchTheDrop.iml" />
+    <entry file="file://$PROJECT_DIR$/CatchTheDrop.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>catch_the_drop:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>catch_the_drop</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
